@@ -1,0 +1,22 @@
+section, #boggle {
+    margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+  text-align: center;
+  font-size: 2rem;
+}
+
+.board{
+    margin: auto;
+  width: 50%;
+  text-align: center;
+}
+
+li {
+    font-size: 1.25rem;
+}
+
+.msg {
+    font-size: 1.25rem;
+}
